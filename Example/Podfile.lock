@@ -1,0 +1,16 @@
+PODS:
+  - JVBadgeView (0.1.0)
+
+DEPENDENCIES:
+  - JVBadgeView (from `../`)
+
+EXTERNAL SOURCES:
+  JVBadgeView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVBadgeView: 80074235414609557499d357cb3d4c2adb4fb1dd
+
+PODFILE CHECKSUM: 866e47af4f26ca873a319a0ec01a75a79ef8328c
+
+COCOAPODS: 1.6.0.beta.1

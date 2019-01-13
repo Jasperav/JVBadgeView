@@ -1,0 +1,22 @@
+{
+  "name": "JVBadgeView",
+  "version": "0.1.0",
+  "summary": "A short description of JVBadgeView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jasper/JVBadgeView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jasper": "Jasperav@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Jasper/JVBadgeView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JVBadgeView/Classes/**/*"
+}

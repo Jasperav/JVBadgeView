@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVBadgeView_Tests' do
+  pod 'JVBadgeView', :path => '../'
+  
+  
+end

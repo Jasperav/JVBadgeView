@@ -1,0 +1,6 @@
+framework module JVBadgeView {
+  umbrella header "JVBadgeView-umbrella.h"
+
+  export *
+  module * { export * }
+}
