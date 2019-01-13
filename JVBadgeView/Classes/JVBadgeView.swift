@@ -4,7 +4,7 @@ import JVConstraintEdges
 
 open class JVBadgeView: UIView {
     
-    static let edges = ConstraintEdges(all: 5)
+    public static let edges = ConstraintEdges(all: 5)
     
     @IBInspectable public var contentTypeId: String = "" {
         didSet {
@@ -16,7 +16,7 @@ open class JVBadgeView: UIView {
     public var contentType: ContentTypeJVBadgeView!
     public var label: JVLabel!
     
-    init(contentType: ContentTypeJVBadgeView) {
+    public init(contentType: ContentTypeJVBadgeView) {
         self.contentType = contentType
         
         super.init(frame: .zero)
