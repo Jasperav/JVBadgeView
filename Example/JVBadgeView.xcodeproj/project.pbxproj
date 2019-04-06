@@ -175,13 +175,39 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-JVBadgeView_Tests/Pods-JVBadgeView_Tests-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/DeviceKit/DeviceKit.framework",
 				"${BUILT_PRODUCTS_DIR}/JVBadgeView/JVBadgeView.framework",
+				"${BUILT_PRODUCTS_DIR}/JVCAGradientLayerExtensions/JVCAGradientLayerExtensions.framework",
+				"${BUILT_PRODUCTS_DIR}/JVCAShapeLayerExtensions/JVCAShapeLayerExtensions.framework",
+				"${BUILT_PRODUCTS_DIR}/JVConstraintEdges/JVConstraintEdges.framework",
+				"${BUILT_PRODUCTS_DIR}/JVContentType/JVContentType.framework",
+				"${BUILT_PRODUCTS_DIR}/JVCurrentDevice/JVCurrentDevice.framework",
+				"${BUILT_PRODUCTS_DIR}/JVDebugProcessorMacros/JVDebugProcessorMacros.framework",
+				"${BUILT_PRODUCTS_DIR}/JVFontUtils/JVFontUtils.framework",
+				"${BUILT_PRODUCTS_DIR}/JVGradientLayer/JVGradientLayer.framework",
+				"${BUILT_PRODUCTS_DIR}/JVRestartable/JVRestartable.framework",
+				"${BUILT_PRODUCTS_DIR}/JVShapeHalfMoon/JVShapeHalfMoon.framework",
+				"${BUILT_PRODUCTS_DIR}/JVSizeable/JVSizeable.framework",
+				"${BUILT_PRODUCTS_DIR}/JVView/JVView.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 			);
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/DeviceKit.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JVBadgeView.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JVCAGradientLayerExtensions.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JVCAShapeLayerExtensions.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JVConstraintEdges.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JVContentType.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JVCurrentDevice.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JVDebugProcessorMacros.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JVFontUtils.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JVGradientLayer.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JVRestartable.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JVShapeHalfMoon.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JVSizeable.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JVView.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

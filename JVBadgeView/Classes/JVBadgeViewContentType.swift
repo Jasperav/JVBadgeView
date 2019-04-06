@@ -5,12 +5,12 @@ public struct ContentTypeJVBadgeView: ContentType {
     public static var allTypes = Set<ContentTypeJVBadgeView>()
     
     public var contentTypeId: String?
-    public var contentTypeJVLabelText: ContentTypeJVLabelText
+    public var contentTypeJVLabel: ContentTypeJVLabel
     public var backgroundColor: UIColor
     
-    public init(contentTypeId: String?, contentTypeJVLabelText: ContentTypeJVLabelText, backgroundColor: UIColor) {
+    public init(contentTypeId: String?, contentTypeJVLabel: ContentTypeJVLabel, backgroundColor: UIColor) {
         self.contentTypeId = contentTypeId
-        self.contentTypeJVLabelText = contentTypeJVLabelText
+        self.contentTypeJVLabel = contentTypeJVLabel
         self.backgroundColor = backgroundColor
     }
     

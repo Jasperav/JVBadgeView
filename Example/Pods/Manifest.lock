@@ -1,16 +1,75 @@
 PODS:
-  - JVBadgeView (0.1.0)
+  - DeviceKit (1.13.0)
+  - JVBadgeView (0.1.1):
+    - JVView
+  - JVCAGradientLayerExtensions (0.1.0)
+  - JVCAShapeLayerExtensions (0.1.0)
+  - JVConstraintEdges (0.3.3):
+    - JVContentType
+    - JVDebugProcessorMacros
+  - JVContentType (0.1.7)
+  - JVCurrentDevice (0.1.2):
+    - DeviceKit
+  - JVDebugProcessorMacros (0.1.0)
+  - JVFontUtils (0.1.0)
+  - JVGradientLayer (0.1.2):
+    - JVCAGradientLayerExtensions
+    - JVContentType
+  - JVRestartable (0.1.6)
+  - JVShapeHalfMoon (0.1.1):
+    - JVCAShapeLayerExtensions
+    - JVContentType
+  - JVSizeable (0.1.0)
+  - JVView (0.2.3):
+    - JVConstraintEdges
+    - JVContentType
+    - JVCurrentDevice
+    - JVFontUtils
+    - JVGradientLayer
+    - JVRestartable
+    - JVShapeHalfMoon
+    - JVSizeable
 
 DEPENDENCIES:
   - JVBadgeView (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DeviceKit
+  "https://Jasperav@bitbucket.org/Jasperav/specs.git":
+    - JVCAGradientLayerExtensions
+    - JVCAShapeLayerExtensions
+    - JVConstraintEdges
+    - JVContentType
+    - JVCurrentDevice
+    - JVDebugProcessorMacros
+    - JVFontUtils
+    - JVGradientLayer
+    - JVRestartable
+    - JVShapeHalfMoon
+    - JVSizeable
+    - JVView
 
 EXTERNAL SOURCES:
   JVBadgeView:
     :path: "../"
 
 SPEC CHECKSUMS:
-  JVBadgeView: 80074235414609557499d357cb3d4c2adb4fb1dd
+  DeviceKit: 5a4accdb2918ce0b69e62dc3bef6e4d2cc06e2e4
+  JVBadgeView: 7aa045c1b5db1891735853f7d942e7d12c7efe6b
+  JVCAGradientLayerExtensions: fb18d708faf5adef4cb26e9c50f84c536865d18c
+  JVCAShapeLayerExtensions: efbb4e48e07c68d434fa3a2c5623e787326303e4
+  JVConstraintEdges: d8e930af6bdc8cf33a25c46bec3137de6328835f
+  JVContentType: bf617302d029baefccde48eb79edc7634fd15f55
+  JVCurrentDevice: 34e66ed5ddc1088872445a7cb4b7d855ff090f55
+  JVDebugProcessorMacros: 5df41f5660e5d5212c1d4c96fc0caa0800d77311
+  JVFontUtils: e390fee698f64889fafa4ccabd25084bdbf136b7
+  JVGradientLayer: 34e464b6f5624370653606c94229e81dcf1282ea
+  JVRestartable: 008c47ae1b36de3bf2cdad2299852231b5749f2a
+  JVShapeHalfMoon: 31444957e7a226e800003afaee2634c8ba8129a1
+  JVSizeable: 1252e6b1bed411b3fc34f6119d8eaf6803876cd3
+  JVView: 362704d538be9a66d0ce0b08d4cc56affbd769b3
 
-PODFILE CHECKSUM: 866e47af4f26ca873a319a0ec01a75a79ef8328c
+PODFILE CHECKSUM: 6c14242ecc0b25278581fbb76a413d1d44f54c73
 
-COCOAPODS: 1.6.0.beta.1
+COCOAPODS: 1.6.1
