@@ -1,10 +1,10 @@
 PODS:
   - DeviceKit (1.13.0)
-  - JVBadgeView (0.1.1):
+  - JVBadgeView (0.1.2):
     - JVView
   - JVCAGradientLayerExtensions (0.1.0)
   - JVCAShapeLayerExtensions (0.1.0)
-  - JVConstraintEdges (0.3.3):
+  - JVConstraintEdges (0.3.4):
     - JVContentType
     - JVDebugProcessorMacros
   - JVContentType (0.1.7)
@@ -56,10 +56,10 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   DeviceKit: 5a4accdb2918ce0b69e62dc3bef6e4d2cc06e2e4
-  JVBadgeView: 7aa045c1b5db1891735853f7d942e7d12c7efe6b
+  JVBadgeView: 43b430cabfaf7abd46bb0a55f5a6332fb40cb4b7
   JVCAGradientLayerExtensions: fb18d708faf5adef4cb26e9c50f84c536865d18c
   JVCAShapeLayerExtensions: efbb4e48e07c68d434fa3a2c5623e787326303e4
-  JVConstraintEdges: d8e930af6bdc8cf33a25c46bec3137de6328835f
+  JVConstraintEdges: ca1d9f78b37c6e36bddfa4c3f6f7b8a1a6d04d5f
   JVContentType: bf617302d029baefccde48eb79edc7634fd15f55
   JVCurrentDevice: 34e66ed5ddc1088872445a7cb4b7d855ff090f55
   JVDebugProcessorMacros: 5df41f5660e5d5212c1d4c96fc0caa0800d77311

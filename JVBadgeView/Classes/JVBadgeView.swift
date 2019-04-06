@@ -35,13 +35,11 @@ extension JVBadgeView: ModelCreator {
         clipsToBounds = true
         backgroundColor = contentType.backgroundColor
         
-        label.layout {
-            $0.fill(toSuperview: self, edges: JVBadgeView.edges)
-            
-            $0.widthAnchor.constraint(greaterThanOrEqualTo: label.heightAnchor, multiplier: 1).isActive = true
-            
-            $0.contentHuggingAndCompressionResistance = 999
-        }
+        label.fill(toSuperview: self, edges: JVBadgeView.edges)
+        
+        label.widthAnchor.constraint(greaterThanOrEqualTo: label.heightAnchor, multiplier: 1).isActive = true
+        
+        label.contentHuggingAndCompressionResistance = 999
         
         label.textAlignment = .center
         label.textColor = .white
