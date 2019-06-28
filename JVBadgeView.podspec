@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'JVBadgeView'
-  s.version          = '0.1.6'
+  s.version          = '0.1.8'
   s.summary          = 'A short description of JVBadgeView.'
 
   s.description      = <<-DESC
