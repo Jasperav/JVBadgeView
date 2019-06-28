@@ -5,43 +5,39 @@ import JVDebugProcessorMacros
 
 open class JVBadgeView: UIView {
     
-    public static let edges = ConstraintEdges(all: 5)
-    
     public let contentType: ContentTypeJVBadgeView
-    public let label: JVLabel
+    public let label: UILabel
     
-    public init(contentType: ContentTypeJVBadgeView, contentTypeJVLabel: ContentTypeJVLabel) {
+    public init(contentType: ContentTypeJVBadgeView) {
         self.contentType = contentType
-        self.label = JVLabel(contentType: contentTypeJVLabel)
+        self.label = UILabel(setup: contentType.textSetup)
         
         super.init(frame: .zero)
         
-        setup()
+        layout()
+        layoutLabel()
     }
     
     public required init?(coder aDecoder: NSCoder) {
-        Unsupported()
+        fatalError()
     }
     
     open override func layoutSubviews() {
         super.layoutSubviews()
-        
-        layer.cornerRadius = bounds.height / 2
+
+        layer.cornerRadius = min(bounds.height, bounds.width) / 2
     }
 }
 
-extension JVBadgeView: ModelCreator {
-    private func setup() {
+extension JVBadgeView: ViewLayout {
+    private func layout() {
         clipsToBounds = true
         backgroundColor = contentType.backgroundColor
-        
-        label.fill(toSuperview: self, edges: JVBadgeView.edges)
-        
-        label.widthAnchor.constraint(greaterThanOrEqualTo: label.heightAnchor, multiplier: 1).isActive = true
-        
-        label.contentHuggingAndCompressionResistance = 999
-        
+    }
+    
+    private func layoutLabel() {
+        label.layout(in: self, edges: contentType.edges)
+        label.layout(contentHuggingAndCompressionResistance: 999)
         label.textAlignment = .center
-        label.textColor = .white
     }
 }

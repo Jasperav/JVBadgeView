@@ -328,7 +328,7 @@
 /* Begin PBXFileReference section */
 		02405F4076A3B2B3C241D491E2563567 /* JVContentType.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = JVContentType.modulemap; sourceTree = "<group>"; };
 		025DDB171F7FCE36EF1ED55BBE999294 /* JVFontUtils.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVFontUtils.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		04116BE1C9FB5E405CAA36EFCF1CAE20 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		04116BE1C9FB5E405CAA36EFCF1CAE20 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		045DD4F8675B83737ED963F18D31C712 /* ContentTypeInitializable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContentTypeInitializable.swift; path = JVContentType/Classes/ContentTypeInitializable.swift; sourceTree = "<group>"; };
 		04EA83A26FF93245CDF406FB417F65F6 /* JVGradientLayer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = JVGradientLayer.swift; path = JVGradientLayer/Classes/JVGradientLayer.swift; sourceTree = "<group>"; };
 		05C08976573AB19AF40F783B428C57E4 /* JVCAGradientLayerExtensions-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "JVCAGradientLayerExtensions-Info.plist"; sourceTree = "<group>"; };
@@ -339,12 +339,12 @@
 		0D04BCA9351695BA4A21715E51C35868 /* JVCAShapeLayerExtensions.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JVCAShapeLayerExtensions.xcconfig; sourceTree = "<group>"; };
 		0ED573F5BA041C08274C954F2C0684D4 /* JVBadgeView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JVBadgeView.xcconfig; sourceTree = "<group>"; };
 		0F0DBA98CC2FB7FB1B4B8EB939D83FAE /* JVShapeHalfMoon.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVShapeHalfMoon.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		10077096D0BCEA1360CDEFFA1BEEDB51 /* JVSizeable.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JVSizeable.framework; path = JVSizeable.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		10077096D0BCEA1360CDEFFA1BEEDB51 /* JVSizeable.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVSizeable.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1046B499785299168E4F296C441C7EDD /* JVDebugProcessorMacros.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVDebugProcessorMacros.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		109DC548EF7D73A0A4947B4F94A9AABB /* JVConstraintEdges.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVConstraintEdges.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		124361597EEE751F8F7DF9130075DA00 /* JVSizeable-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JVSizeable-dummy.m"; sourceTree = "<group>"; };
 		12738E6DBFB81710D861B84B121840B9 /* RestartableManageable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RestartableManageable.swift; path = JVRestartable/Classes/RestartableManageable.swift; sourceTree = "<group>"; };
-		1423AFC99B2096C2E327F6C9D3EBCC55 /* JVCurrentDevice.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JVCurrentDevice.framework; path = JVCurrentDevice.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1423AFC99B2096C2E327F6C9D3EBCC55 /* JVCurrentDevice.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVCurrentDevice.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		171F6F6E33E705D882A0768662325595 /* JVCurrentDevice.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = JVCurrentDevice.modulemap; sourceTree = "<group>"; };
 		18CD8D1EA59E69861EEB24F85B123468 /* JVCurrentDevice-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JVCurrentDevice-dummy.m"; sourceTree = "<group>"; };
 		19C93EF94F9034AA196F2192E3184B2E /* JVCAShapeLayerExtensions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVCAShapeLayerExtensions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -359,12 +359,12 @@
 		2EE163A7E4872D5761103072CAF2060A /* DeviceType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DeviceType.swift; path = JVCurrentDevice/Classes/DeviceType.swift; sourceTree = "<group>"; };
 		303040D93F5ED3AD45A666FE93344C8D /* JVShapeHalfMoon.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JVShapeHalfMoon.xcconfig; sourceTree = "<group>"; };
 		31D5F40C238DD5299853AB99674F4E0F /* JVRestartable.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVRestartable.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3278B7D848F5C3ECB3E11E73F0FD2D2C /* JVConstraintEdges.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JVConstraintEdges.framework; path = JVConstraintEdges.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3278B7D848F5C3ECB3E11E73F0FD2D2C /* JVConstraintEdges.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVConstraintEdges.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		32FC3FC063C1F7A2C91CDEF7E82E1E2B /* JVCurrentDevice.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JVCurrentDevice.xcconfig; sourceTree = "<group>"; };
 		336E4DC4D9EB6ABA089BF2CFC7ED4D3A /* JVFontUtils-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "JVFontUtils-Info.plist"; sourceTree = "<group>"; };
 		359FA8DD770FF6E9766DB0A2B64FC791 /* JVCAGradientLayerExtensions-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVCAGradientLayerExtensions-prefix.pch"; sourceTree = "<group>"; };
 		35B6E8851E850781F1318D8F9610D2D2 /* JVDebugProcessorMacros-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "JVDebugProcessorMacros-Info.plist"; sourceTree = "<group>"; };
-		35EF7A64CDABB5F1A5D8125A22E25A14 /* JVCAShapeLayerExtensions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JVCAShapeLayerExtensions.framework; path = JVCAShapeLayerExtensions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		35EF7A64CDABB5F1A5D8125A22E25A14 /* JVCAShapeLayerExtensions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVCAShapeLayerExtensions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		36D7A38C875DD1A118C4DD344F6D7A1A /* DeviceKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = DeviceKit.modulemap; sourceTree = "<group>"; };
 		372AA65C5E018BC10242C3CFDAB00CF5 /* JVGradientLayer-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JVGradientLayer-dummy.m"; sourceTree = "<group>"; };
 		37C888491BDF4D4E76A287F936BD1D8B /* DeviceKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "DeviceKit-Info.plist"; sourceTree = "<group>"; };
@@ -409,7 +409,7 @@
 		7F57A67808959B79EA253A29FE8DE442 /* JVBadgeView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVBadgeView-umbrella.h"; sourceTree = "<group>"; };
 		7F90A541433F9EE886573613B57C0802 /* JVRestartable-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JVRestartable-dummy.m"; sourceTree = "<group>"; };
 		800FEED7053A046F1E079DFF46B040CD /* CollectionExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CollectionExtensions.swift; path = JVRestartable/Classes/CollectionExtensions.swift; sourceTree = "<group>"; };
-		814B7BF57C4DFD38DD3A2D6EDF6902E1 /* JVContentType.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JVContentType.framework; path = JVContentType.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		814B7BF57C4DFD38DD3A2D6EDF6902E1 /* JVContentType.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVContentType.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		82F46B7FD8D7AAE556006C01D9591263 /* JVCAGradientLayerExtensions-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVCAGradientLayerExtensions-umbrella.h"; sourceTree = "<group>"; };
 		832296942CA17D07A208EB597F5F2FB6 /* JVCAGradientLayerExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = JVCAGradientLayerExtensions.swift; path = JVCAGradientLayerExtensions/Classes/JVCAGradientLayerExtensions.swift; sourceTree = "<group>"; };
 		84C1F58DEAC9F92AC3AF3052656943BA /* Pods-JVBadgeView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-JVBadgeView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -423,26 +423,26 @@
 		90ADAC03B2A428270B02FE7D1EC0F6FD /* JVFontUtils.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JVFontUtils.xcconfig; sourceTree = "<group>"; };
 		91972AB180D334730DE6A29412C14CC2 /* JVCAShapeLayerExtensions-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVCAShapeLayerExtensions-prefix.pch"; sourceTree = "<group>"; };
 		92F8007B4C5046459F3359CB7620BA3F /* JVDebugProcessorMacros.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = JVDebugProcessorMacros.modulemap; sourceTree = "<group>"; };
-		93E1580C091CDDE02227756822E21814 /* JVRestartable.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JVRestartable.framework; path = JVRestartable.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		93E1580C091CDDE02227756822E21814 /* JVRestartable.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVRestartable.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		97E577EB0A8844AEA599F9B9D2DA7881 /* Pods-JVBadgeView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-JVBadgeView_Tests-dummy.m"; sourceTree = "<group>"; };
 		9972C9FC170744B978EB3C5DC000032A /* JVView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JVView.xcconfig; sourceTree = "<group>"; };
 		9AA95A88A272E248C6ABB3DB2A81D019 /* JVRestartable.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = JVRestartable.modulemap; sourceTree = "<group>"; };
 		9BE6C06D0B585C682148C30F3EDAB3B2 /* JVFontUtils.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = JVFontUtils.swift; path = JVFontUtils/Classes/JVFontUtils.swift; sourceTree = "<group>"; };
-		9BF558B3FFD0B1FDF23CB7A156ED2866 /* JVShapeHalfMoon.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JVShapeHalfMoon.framework; path = JVShapeHalfMoon.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9BF558B3FFD0B1FDF23CB7A156ED2866 /* JVShapeHalfMoon.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVShapeHalfMoon.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CB04C0F7E52F629378D76B862495FFB /* JVConstraintEdges-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JVConstraintEdges-dummy.m"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9F6D0D072F0ACE7D51511B49810990DE /* JVFontUtils.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JVFontUtils.framework; path = JVFontUtils.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9F6D0D072F0ACE7D51511B49810990DE /* JVFontUtils.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVFontUtils.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FF42D121A71E7AEA09B2A58B23EB45B /* JVConstraintEdges.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JVConstraintEdges.xcconfig; sourceTree = "<group>"; };
 		A07F14B549E1A10D345BC2EF436019AB /* JVConstraintEdges-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVConstraintEdges-prefix.pch"; sourceTree = "<group>"; };
 		A17DCA58AFDFAC419F225DFFDE541862 /* Pods-JVBadgeView_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-JVBadgeView_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		A47058CC08A1F43A954E7AEC764B5587 /* ShapeHalfMoon.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ShapeHalfMoon.swift; path = JVShapeHalfMoon/Classes/ShapeHalfMoon.swift; sourceTree = "<group>"; };
-		A599D4757598B08335FFA1F39186AC18 /* JVDebugProcessorMacros.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JVDebugProcessorMacros.framework; path = JVDebugProcessorMacros.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A599D4757598B08335FFA1F39186AC18 /* JVDebugProcessorMacros.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVDebugProcessorMacros.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC1D701300C57B99EBBB56A53D0C674B /* StringExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StringExtensions.swift; path = JVView/Classes/StringExtensions.swift; sourceTree = "<group>"; };
 		AD004CC02233F37AC9E1E08B750CD98A /* ContentTypeGroup.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContentTypeGroup.swift; path = JVContentType/Classes/ContentTypeGroup.swift; sourceTree = "<group>"; };
 		AD16222B61AA4C059AC33545C08C321E /* JVBadgeView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JVBadgeView-dummy.m"; sourceTree = "<group>"; };
 		AF8B5B30917E09C8CA44DFFAD3EBE50C /* JVCurrentDevice-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVCurrentDevice-prefix.pch"; sourceTree = "<group>"; };
 		B09A25D985004D5A202D8630F250ED56 /* CGFloatExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CGFloatExtensions.swift; path = JVConstraintEdges/Classes/CGFloatExtensions.swift; sourceTree = "<group>"; };
-		B0BA905D92D39AC6E1134E483D447DFA /* JVBadgeView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = JVBadgeView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		B0BA905D92D39AC6E1134E483D447DFA /* JVBadgeView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = JVBadgeView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B17F59B9619EA892936BB7C053AC2B3D /* JVSizeable-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "JVSizeable-Info.plist"; sourceTree = "<group>"; };
 		B260E2EE33EEE2F9A0A03B15B8C6472B /* JVCAShapeLayerExtensions.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = JVCAShapeLayerExtensions.modulemap; sourceTree = "<group>"; };
 		B504C4CC2EEFB4E8E7D62AC6591812F0 /* JVRestartable-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "JVRestartable-Info.plist"; sourceTree = "<group>"; };
@@ -455,12 +455,12 @@
 		BBCC4E898D645C80F7FCAAC7CC82B816 /* Anchor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Anchor.swift; path = JVConstraintEdges/Classes/Anchor.swift; sourceTree = "<group>"; };
 		BBD55060D6AABDC7830CEE791751E7BD /* ContentTypeStarLabel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContentTypeStarLabel.swift; path = JVView/Classes/ContentTypeStarLabel.swift; sourceTree = "<group>"; };
 		BC0E0869FB5B53060F811715FC0E3C9E /* ContentTypeGroupInitializable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContentTypeGroupInitializable.swift; path = JVContentType/Classes/ContentTypeGroupInitializable.swift; sourceTree = "<group>"; };
-		BE7C72C63125A3BE3BD1432539A552DB /* JVBadgeView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JVBadgeView.framework; path = JVBadgeView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BE7C72C63125A3BE3BD1432539A552DB /* JVBadgeView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVBadgeView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C34016704190D78C0ED0BF134291E6A9 /* JVGradientLayer-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVGradientLayer-umbrella.h"; sourceTree = "<group>"; };
 		C4F3D68D48BDF6A84D221539FD5ADF27 /* ContentHuggingCompressionResistance.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContentHuggingCompressionResistance.swift; path = JVConstraintEdges/Classes/ContentHuggingCompressionResistance.swift; sourceTree = "<group>"; };
 		C5012D929A0E578324465046624A472B /* RestartableStateable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RestartableStateable.swift; path = JVRestartable/Classes/RestartableStateable.swift; sourceTree = "<group>"; };
 		C5C56FA138976B9F3EB54065DF705E5F /* JVContentType-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JVContentType-dummy.m"; sourceTree = "<group>"; };
-		C7BBA0F3D13FFE87A2DB07489B822993 /* JVView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JVView.framework; path = JVView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C7BBA0F3D13FFE87A2DB07489B822993 /* JVView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA00214A22D40C22644C5CB16B859033 /* JVGradientLayer.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = JVGradientLayer.modulemap; sourceTree = "<group>"; };
 		CA300534896710866D00C840A6EB8775 /* JVDebugProcessorMacros-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVDebugProcessorMacros-prefix.pch"; sourceTree = "<group>"; };
 		CA4D295D2DB987B0115FBCDFC547A650 /* Pods-JVBadgeView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-JVBadgeView_Tests-umbrella.h"; sourceTree = "<group>"; };
@@ -470,15 +470,15 @@
 		D1F0F7B712053D14866E5AC7C58FEBCC /* JVDebugProcessorMacros-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JVDebugProcessorMacros-dummy.m"; sourceTree = "<group>"; };
 		D2F58E97B70AE76026BA0AD74194C05D /* JVShapeHalfMoon-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVShapeHalfMoon-prefix.pch"; sourceTree = "<group>"; };
 		D4E55A409FB3A226CE88BBDA08D6BAC1 /* JVContentType.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JVContentType.xcconfig; sourceTree = "<group>"; };
-		D71BD5BA458DBD8F9347F17F29D17C85 /* JVCAGradientLayerExtensions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JVCAGradientLayerExtensions.framework; path = JVCAGradientLayerExtensions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D71BD5BA458DBD8F9347F17F29D17C85 /* JVCAGradientLayerExtensions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVCAGradientLayerExtensions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D76FC85DD93CFD1AA4B2AD13D1F96AFD /* ConstraintEdges.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintEdges.swift; path = JVConstraintEdges/Classes/ConstraintEdges.swift; sourceTree = "<group>"; };
 		DF229ED99C3C08580415F4A79F1F1E51 /* JVShapeHalfMoon-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JVShapeHalfMoon-dummy.m"; sourceTree = "<group>"; };
 		E094FFAEC106778E71DFEB351731BB3C /* JVContentType-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVContentType-prefix.pch"; sourceTree = "<group>"; };
-		E2E6986C1E7B3E7D64D0A8948CA7B84B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		E2E6986C1E7B3E7D64D0A8948CA7B84B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		E3B286A3774431ED01354291FE85DFE7 /* JVShapeHalfMoon-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JVShapeHalfMoon-umbrella.h"; sourceTree = "<group>"; };
-		E5CA5C8E7D2F602FE8DCE098CE122579 /* Pods_JVBadgeView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_JVBadgeView_Tests.framework; path = "Pods-JVBadgeView_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E8FD15FDDE5EFA5559314951BD524B55 /* JVGradientLayer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JVGradientLayer.framework; path = JVGradientLayer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		EA1171C84D7A8938F3F61FCE8D13CCA8 /* DeviceKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DeviceKit.framework; path = DeviceKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E5CA5C8E7D2F602FE8DCE098CE122579 /* Pods_JVBadgeView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JVBadgeView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E8FD15FDDE5EFA5559314951BD524B55 /* JVGradientLayer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JVGradientLayer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA1171C84D7A8938F3F61FCE8D13CCA8 /* DeviceKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DeviceKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC126119816792B5E223465204D0A8A6 /* JVSizeable.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = JVSizeable.modulemap; sourceTree = "<group>"; };
 		EC1C25EABE23F7D787C83DFED7617AEA /* Sizeable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Sizeable.swift; path = JVSizeable/Classes/Sizeable.swift; sourceTree = "<group>"; };
 		ECCAF2624A92CA3A06C5907FC8787909 /* JVBadgeView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "JVBadgeView-Info.plist"; sourceTree = "<group>"; };
@@ -647,7 +647,6 @@
 				8A2544EBA09B13069D53B69F35327B16 /* Copyable.swift */,
 				D66D8C1BFB6ECA1F60E87FCBE2BDBD30 /* Support Files */,
 			);
-			name = JVContentType;
 			path = JVContentType;
 			sourceTree = "<group>";
 		};
@@ -682,7 +681,6 @@
 				6B8BE215DE401B1CEDB5F422C2FE520C /* StringExtensions.swift */,
 				CEF947E7C868FEF802E141C355368B62 /* Support Files */,
 			);
-			name = JVGradientLayer;
 			path = JVGradientLayer;
 			sourceTree = "<group>";
 		};
@@ -700,7 +698,6 @@
 				EC1C25EABE23F7D787C83DFED7617AEA /* Sizeable.swift */,
 				079B94E3C01B5D457E0344F5C81F4F89 /* Support Files */,
 			);
-			name = JVSizeable;
 			path = JVSizeable;
 			sourceTree = "<group>";
 		};
@@ -728,7 +725,6 @@
 				4BE69B3B757820427F5AFF5DA2B4AF18 /* Device.generated.swift */,
 				A63C2A14E05BAB27818D5D64F89EC8AE /* Support Files */,
 			);
-			name = DeviceKit;
 			path = DeviceKit;
 			sourceTree = "<group>";
 		};
@@ -739,7 +735,6 @@
 				2EE163A7E4872D5761103072CAF2060A /* DeviceType.swift */,
 				A5287796EFADE66F171162A40E580868 /* Support Files */,
 			);
-			name = JVCurrentDevice;
 			path = JVCurrentDevice;
 			sourceTree = "<group>";
 		};
@@ -749,7 +744,6 @@
 				CFE17679A1E70D5408ED53B7D3DBB6F0 /* DebugProcessorMacros.swift */,
 				FC453FBB12BB58B3BA9F3577F16EC1B4 /* Support Files */,
 			);
-			name = JVDebugProcessorMacros;
 			path = JVDebugProcessorMacros;
 			sourceTree = "<group>";
 		};
@@ -777,7 +771,6 @@
 				AC1D701300C57B99EBBB56A53D0C674B /* StringExtensions.swift */,
 				D00A1E12D161A80FAAB97CD3500F62CE /* Support Files */,
 			);
-			name = JVView;
 			path = JVView;
 			sourceTree = "<group>";
 		};
@@ -787,7 +780,6 @@
 				9BE6C06D0B585C682148C30F3EDAB3B2 /* JVFontUtils.swift */,
 				EA8A53034ED8915465443DE4EC3F1866 /* Support Files */,
 			);
-			name = JVFontUtils;
 			path = JVFontUtils;
 			sourceTree = "<group>";
 		};
@@ -805,7 +797,6 @@
 				BA65AA5F996313E28F22EB4161D6B5D8 /* UIViewFillExtension.swift */,
 				8BE00733D332DD57BB2884144AE07FC3 /* Support Files */,
 			);
-			name = JVConstraintEdges;
 			path = JVConstraintEdges;
 			sourceTree = "<group>";
 		};
@@ -914,7 +905,6 @@
 				A47058CC08A1F43A954E7AEC764B5587 /* ShapeHalfMoon.swift */,
 				B7CF29D50A9695835E43A9B3E89924D2 /* Support Files */,
 			);
-			name = JVShapeHalfMoon;
 			path = JVShapeHalfMoon;
 			sourceTree = "<group>";
 		};
@@ -1023,7 +1013,6 @@
 				832296942CA17D07A208EB597F5F2FB6 /* JVCAGradientLayerExtensions.swift */,
 				F53CCD2D87BF86D6487FF13A76A1717D /* Support Files */,
 			);
-			name = JVCAGradientLayerExtensions;
 			path = JVCAGradientLayerExtensions;
 			sourceTree = "<group>";
 		};
@@ -1037,7 +1026,6 @@
 				C5012D929A0E578324465046624A472B /* RestartableStateable.swift */,
 				775AC004A91221561B5E1EF835F80C7B /* Support Files */,
 			);
-			name = JVRestartable;
 			path = JVRestartable;
 			sourceTree = "<group>";
 		};
@@ -1061,7 +1049,6 @@
 				6FB216358F786F765F7EC17DB4145A67 /* CAShapeLayerExtensions.swift */,
 				CF776C21C6C1C017E02B87FFE9DD941F /* Support Files */,
 			);
-			name = JVCAShapeLayerExtensions;
 			path = JVCAShapeLayerExtensions;
 			sourceTree = "<group>";
 		};
@@ -1567,6 +1554,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
@@ -2068,7 +2056,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVFontUtils/JVFontUtils-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVFontUtils/JVFontUtils-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVFontUtils/JVFontUtils.modulemap";
 				PRODUCT_MODULE_NAME = JVFontUtils;
@@ -2102,7 +2090,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVSizeable/JVSizeable-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVSizeable/JVSizeable-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVSizeable/JVSizeable.modulemap";
 				PRODUCT_MODULE_NAME = JVSizeable;
@@ -2136,7 +2124,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVContentType/JVContentType-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVContentType/JVContentType-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVContentType/JVContentType.modulemap";
 				PRODUCT_MODULE_NAME = JVContentType;
@@ -2170,7 +2158,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVBadgeView/JVBadgeView-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVBadgeView/JVBadgeView-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVBadgeView/JVBadgeView.modulemap";
 				PRODUCT_MODULE_NAME = JVBadgeView;
@@ -2178,7 +2166,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -2203,7 +2191,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVBadgeView/JVBadgeView-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVBadgeView/JVBadgeView-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVBadgeView/JVBadgeView.modulemap";
 				PRODUCT_MODULE_NAME = JVBadgeView;
@@ -2211,7 +2199,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -2237,7 +2225,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-JVBadgeView_Tests/Pods-JVBadgeView_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-JVBadgeView_Tests/Pods-JVBadgeView_Tests.modulemap";
@@ -2273,7 +2261,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVGradientLayer/JVGradientLayer-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVGradientLayer/JVGradientLayer-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVGradientLayer/JVGradientLayer.modulemap";
 				PRODUCT_MODULE_NAME = JVGradientLayer;
@@ -2307,7 +2295,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVCurrentDevice/JVCurrentDevice-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVCurrentDevice/JVCurrentDevice-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVCurrentDevice/JVCurrentDevice.modulemap";
 				PRODUCT_MODULE_NAME = JVCurrentDevice;
@@ -2340,7 +2328,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVDebugProcessorMacros/JVDebugProcessorMacros-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVDebugProcessorMacros/JVDebugProcessorMacros-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVDebugProcessorMacros/JVDebugProcessorMacros.modulemap";
 				PRODUCT_MODULE_NAME = JVDebugProcessorMacros;
@@ -2373,7 +2361,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVContentType/JVContentType-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVContentType/JVContentType-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVContentType/JVContentType.modulemap";
 				PRODUCT_MODULE_NAME = JVContentType;
@@ -2406,7 +2394,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVConstraintEdges/JVConstraintEdges-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVConstraintEdges/JVConstraintEdges-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVConstraintEdges/JVConstraintEdges.modulemap";
 				PRODUCT_MODULE_NAME = JVConstraintEdges;
@@ -2469,14 +2457,13 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				SWIFT_VERSION = 4.2;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
@@ -2499,7 +2486,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVConstraintEdges/JVConstraintEdges-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVConstraintEdges/JVConstraintEdges-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVConstraintEdges/JVConstraintEdges.modulemap";
 				PRODUCT_MODULE_NAME = JVConstraintEdges;
@@ -2566,7 +2553,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -2574,7 +2561,7 @@
 				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
@@ -2597,7 +2584,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVCAShapeLayerExtensions/JVCAShapeLayerExtensions-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVCAShapeLayerExtensions/JVCAShapeLayerExtensions-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVCAShapeLayerExtensions/JVCAShapeLayerExtensions.modulemap";
 				PRODUCT_MODULE_NAME = JVCAShapeLayerExtensions;
@@ -2630,7 +2617,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVView/JVView-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVView/JVView-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVView/JVView.modulemap";
 				PRODUCT_MODULE_NAME = JVView;
@@ -2664,7 +2651,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVFontUtils/JVFontUtils-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVFontUtils/JVFontUtils-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVFontUtils/JVFontUtils.modulemap";
 				PRODUCT_MODULE_NAME = JVFontUtils;
@@ -2697,7 +2684,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVRestartable/JVRestartable-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVRestartable/JVRestartable-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVRestartable/JVRestartable.modulemap";
 				PRODUCT_MODULE_NAME = JVRestartable;
@@ -2730,7 +2717,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVRestartable/JVRestartable-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVRestartable/JVRestartable-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVRestartable/JVRestartable.modulemap";
 				PRODUCT_MODULE_NAME = JVRestartable;
@@ -2764,7 +2751,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVShapeHalfMoon/JVShapeHalfMoon-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVShapeHalfMoon/JVShapeHalfMoon-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVShapeHalfMoon/JVShapeHalfMoon.modulemap";
 				PRODUCT_MODULE_NAME = JVShapeHalfMoon;
@@ -2798,7 +2785,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVGradientLayer/JVGradientLayer-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVGradientLayer/JVGradientLayer-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVGradientLayer/JVGradientLayer.modulemap";
 				PRODUCT_MODULE_NAME = JVGradientLayer;
@@ -2830,7 +2817,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVDebugProcessorMacros/JVDebugProcessorMacros-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVDebugProcessorMacros/JVDebugProcessorMacros-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVDebugProcessorMacros/JVDebugProcessorMacros.modulemap";
 				PRODUCT_MODULE_NAME = JVDebugProcessorMacros;
@@ -2864,7 +2851,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVView/JVView-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVView/JVView-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVView/JVView.modulemap";
 				PRODUCT_MODULE_NAME = JVView;
@@ -2896,7 +2883,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/DeviceKit/DeviceKit-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/DeviceKit/DeviceKit-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/DeviceKit/DeviceKit.modulemap";
 				PRODUCT_MODULE_NAME = DeviceKit;
@@ -2929,7 +2916,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVShapeHalfMoon/JVShapeHalfMoon-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVShapeHalfMoon/JVShapeHalfMoon-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVShapeHalfMoon/JVShapeHalfMoon.modulemap";
 				PRODUCT_MODULE_NAME = JVShapeHalfMoon;
@@ -2962,7 +2949,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVCAGradientLayerExtensions/JVCAGradientLayerExtensions-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVCAGradientLayerExtensions/JVCAGradientLayerExtensions-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVCAGradientLayerExtensions/JVCAGradientLayerExtensions.modulemap";
 				PRODUCT_MODULE_NAME = JVCAGradientLayerExtensions;
@@ -2995,7 +2982,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVCAShapeLayerExtensions/JVCAShapeLayerExtensions-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVCAShapeLayerExtensions/JVCAShapeLayerExtensions-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVCAShapeLayerExtensions/JVCAShapeLayerExtensions.modulemap";
 				PRODUCT_MODULE_NAME = JVCAShapeLayerExtensions;
@@ -3028,7 +3015,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/DeviceKit/DeviceKit-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/DeviceKit/DeviceKit-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/DeviceKit/DeviceKit.modulemap";
 				PRODUCT_MODULE_NAME = DeviceKit;
@@ -3062,7 +3049,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-JVBadgeView_Tests/Pods-JVBadgeView_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-JVBadgeView_Tests/Pods-JVBadgeView_Tests.modulemap";
@@ -3097,7 +3084,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVCurrentDevice/JVCurrentDevice-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVCurrentDevice/JVCurrentDevice-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVCurrentDevice/JVCurrentDevice.modulemap";
 				PRODUCT_MODULE_NAME = JVCurrentDevice;
@@ -3130,7 +3117,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVSizeable/JVSizeable-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVSizeable/JVSizeable-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVSizeable/JVSizeable.modulemap";
 				PRODUCT_MODULE_NAME = JVSizeable;
@@ -3163,7 +3150,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/JVCAGradientLayerExtensions/JVCAGradientLayerExtensions-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/JVCAGradientLayerExtensions/JVCAGradientLayerExtensions-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/JVCAGradientLayerExtensions/JVCAGradientLayerExtensions.modulemap";
 				PRODUCT_MODULE_NAME = JVCAGradientLayerExtensions;
